@@ -15,7 +15,7 @@ public class p5
         return avg;
     }
 
-    float getaverage(float p, float q, float r)     // getaverage method find average
+    float getaverage(float p, float q, float r)   
     {
         float avg;
         avg = (p + q + r) / 3;
